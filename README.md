@@ -1,2 +1,2 @@
-# workshop1
-Prueba de repositorio
+# Jenkins_AWS
+Repositorio para hacer pruebas de integración. con un Jenkins montado en AWS
